@@ -18,6 +18,8 @@
 
 ![Hareesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hareesh-r&theme=dark&show_icons=true&&hide=issues,contribs)
 
-[![Leetcode Stats](![LeetCode Stats](https://leetcard.jacoblin.cool/meghabharathib?theme=catppuccinMocha&font=Nobile))](https://leetcode.com/u/meghabharathib/)
+(![LeetCode Stats](https://leetcard.jacoblin.cool/meghabharathib?theme=catppuccinMocha&font=Nobile))](https://leetcode.com/u/meghabharathib/)
 
-[![Hareesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hareesh-r&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![MEGHABHARATHI's Stats](https://github-readme-stats.vercel.app/api?username=MEGHABHARATHI&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+![MEGHABHARATHI's Streak](https://github-readme-streak-stats.herokuapp.com/?user=MEGHABHARATHI&theme=vue-dark&hide_border=false)
+![MEGHABHARATHI's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MEGHABHARATHI&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
